@@ -8,6 +8,12 @@ exactly `/`.
 This means you don't have to write the routes in a backwards order for the middlewares to take
 effect only where you want it.
 
+## Install
+
+```bash
+npm install --save middleware-only-at-path
+```
+
 ## Example
 
 If you want to use [allow-methods](https://www.npmjs.com/package/allow-methods) at specific
