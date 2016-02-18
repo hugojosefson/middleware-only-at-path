@@ -1,6 +1,6 @@
 {
   "name": "middleware-only-at-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Only use Express middleware at specific path.",
   "main": "lib/index.js",
   "scripts": {
