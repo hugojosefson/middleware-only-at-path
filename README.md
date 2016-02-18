@@ -6,7 +6,7 @@ Useful as `app.use(onlyAt('/', middleware))` so it doesn't run the middleware an
 exactly `/`.
 
 This means you don't have to write the routes in a backwards order for the middlewares to take
-effect only where you want it.
+effect only where you want them.
 
 ## Install
 
