@@ -5,7 +5,7 @@ Lets you use an Express middleware, only at a specific path.
 Useful as `app.use(onlyAt('/', middleware))` so it doesn't run the middleware any deeper than
 exactly `/`.
 
-This means you don't have to write the routes in a backwards order for the middleware to take
+This means you don't have to write the routes in a backwards order for the middlewares to take
 effect only where you want it.
 
 ## Example
