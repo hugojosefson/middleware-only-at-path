@@ -1,5 +1,7 @@
 # middleware-only-at-path
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hugojosefson/middleware-only-at-path.svg)](https://greenkeeper.io/)
+
 Lets you use an Express middleware, only at a specific path.
 
 Useful as `app.use(onlyAt('/', middleware))` so it doesn't run the middleware any deeper than
