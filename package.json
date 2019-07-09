@@ -19,11 +19,11 @@
   "repository": "hugojosefson/middleware-only-at-path",
   "devDependencies": {
     "babel-cli": "^6.5.1",
-    "babel-plugin-add-module-exports": "^0.1.2",
+    "babel-plugin-add-module-exports": "^1.0.2",
     "babel-preset-es2015": "^6.5.0"
   },
   "dependencies": {
-    "path-to-regexp": "^1.2.1"
+    "path-to-regexp": "^3.0.0"
   },
   "babel": {
     "presets": [
